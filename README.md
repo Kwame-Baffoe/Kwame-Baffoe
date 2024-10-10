@@ -1,7 +1,7 @@
 # Abraham Kwame Acquah Baffoe Jnr
 
 # 💫 About Me:
-I am currently working on a SaaS project to Train and Synchronize LLMS with the ability of Deep Minds<br>
+I am currently working on a SaaS project which Train and Synchronize LLMS with the ability of Deep Minds for building fast AI products for local and enterprise use.<br>
 I am currently looking to collaborate on any Next.JS projects and Software Development
 I am presently learning Deep Minds and Advance Algorithms<br>Ask me about Codes, and you will get coconuts 🌴<br>
 The only fun fact is I love learning but at a slow pace.
