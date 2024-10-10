@@ -1,10 +1,10 @@
-## Abraham Kwame Acquah Baffoe👋
-
-<!--
-**Kwame-Baffoe/Kwame-Baffoe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Abraham Kwame Acquah Baffoe Jnr
 
 # 💫 About Me:
-I am currently working on a SaaS project to Train and Synchronize LLMS with the ability of Deep Minds<br>I am currently looking to collaborate on any Next.JS projects and Software Development<br>I am presently learning Deep Minds and Advance Algorithms<br>Ask me about Codes, and you will get coconuts 🌴<br>The only fun fact is I love learning but at a slow pace.
+I am currently working on a SaaS project to Train and Synchronize LLMS with the ability of Deep Minds
+I am currently looking to collaborate on any Next.JS projects and Software Development
+<br>
+I am presently learning Deep Minds and Advance Algorithms<br>Ask me about Codes, and you will get coconuts 🌴<br>The only fun fact is I love learning but at a slow pace.
 
 
 ## 🌐 Socials:
@@ -23,4 +23,3 @@ I am currently working on a SaaS project to Train and Synchronize LLMS with the 
 ---
 [![](https://visitcount.itsvg.in/api?id=Kwame-Baffoe&icon=2&color=3)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
